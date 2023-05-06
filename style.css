@@ -26,21 +26,21 @@ span{
 .btnincrease{
     background: none;
     outline: none;
-    border: 3px solid black;
+    border: 3px solid alice blue;
     padding: 15px;
     margin: 35px;
     font-size: medium;
-    background-color: white;
+    background-color: black;
     
     
 }
 .btnreset{
     background: none;
     outline: none;
-    border: 3px solid black;
+    border: 3px solid alice blue;
     padding: 15px;
     margin: 35px;
     font-size: medium;
-    background-color:white;
+    background-color:black;
 
 }
